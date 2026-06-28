@@ -39,6 +39,7 @@ mission: "Empowering Youth for the Digital Future through STEM Excellence"
 
 | Project | Description |
 | --- | --- |
+| [🧠 ai-prompt-library](https://techbaseng.github.io/ai-prompt-library/) | A searchable, fully editable library of 217 AI prompts across 11 categories — one-click copy, works offline. |
 | [🌍 globalwarming](https://techbaseng.github.io/globalwarming/) | A 26-page educational site connecting atmospheric science with public understanding of climate change. |
 | [📱 AI Studio → Android Guide](https://techbaseng.github.io/ai-studio-android-guide/) | A 23-step walkthrough for building an AI-powered app in Google AI Studio and shipping it as an installable Android PWA. |
 | [💼 Personal AI Career Engine](https://techbaseng.github.io/career-engine-guide/) | A free guide to building a CV and career documents with NotebookLM and a configured Claude Project. |
