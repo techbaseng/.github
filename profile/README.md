@@ -45,4 +45,4 @@ mission: "Empowering Youth for the Digital Future through STEM Excellence"
 
 [![Footer wave](https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00C2A8,50:FFB400,100:4F5BFF&section=footer)](https://techbaseng.github.io/)
 
-**Techbase Consultant Services** · Built by [Babatunde Awoyemi](https://github.com/babatundeawo) · Made with ❤️ in Ibadan, Nigeria
+**Techbase Consultant Services** · Built by [Babatunde Awoyemi](https://github.com/babatundeawo) 
