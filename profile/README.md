@@ -35,6 +35,45 @@ mission: "Empowering Youth for the Digital Future through STEM Excellence"
 
 ---
 
+## 🚀 Projects &amp; Repositories
+
+Everything below is built and maintained by [Babatunde Awoyemi](https://github.com/babatundeawo) — the
+free Techbase courses in this organisation, plus the personal tools and guides on his own account. Every
+project links to its live site and its source code.
+
+### 🎓 Techbase STEM Academy courses — this organisation
+
+| Course | Level | Content | Live | Repo |
+| --- | --- | --- | --- | --- |
+| 🎓 Techbase STEM Academy (hub) | — | Course index &amp; landing page | [Visit →](https://techbaseng.github.io/) | [Code →](https://github.com/techbaseng/techbaseng.github.io) |
+| 🌐 HTML Fundamentals | Beginner | 34 lessons | [Visit →](https://techbaseng.github.io/techbase-html/) | [Code →](https://github.com/techbaseng/techbase-html) |
+| 🎨 CSS Styling | Beginner → Advanced | 73 lessons | [Visit →](https://techbaseng.github.io/techbase-css/) | [Code →](https://github.com/techbaseng/techbase-css) |
+| ⚡ JavaScript | Intermediate | 46 lessons | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
+| 🐍 Python Programming | Beginner → Advanced | 45 lessons | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
+| 🟠 Scratch Programming | Beginner | 35 projects | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
+| 🤖 Robotics &amp; Arduino | Intermediate | 12 lessons | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
+
+### 🛠️ More projects &amp; tools — [github.com/babatundeawo](https://github.com/babatundeawo)
+
+Built by the same team, on Babatunde's personal account — AI-powered tools, guides, and education sites that
+extend Techbase's mission beyond the core curriculum.
+
+| Project | What it is | Live | Repo |
+| --- | --- | --- | --- |
+| 🧠 PromptOS — AI Prompt Library | 217 curated AI prompts across 11 categories, searchable and editable, works offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
+| 🗂️ Deploybase — AI Deployment Directory | Registry of every deployed Claude Project built and run by Techbase / Babatunde Awoyemi. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
+| 🧑‍🏫 Educator AI Toolkit | Free reference site for Nigerian educators — exam/marking-guide and lesson-note AI generators. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
+| 🌍 Global Warming Explorer | 27-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
+| 👾 Regex Form &amp; Secret Code Playground | Gamified regex-teaching app for kids and students, with a live sandbox and password-strength checker. | [Visit →](https://babatundeawo.github.io/smart-form-validator/) | [Code →](https://github.com/babatundeawo/smart-form-validator) |
+| 🏫 Student Report Card System | Self-contained, browser-based student information &amp; performance management system for schools. | [Visit →](https://babatundeawo.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo/student-report-card) |
+| 📱 AI Studio → Android Deployment Guide | 23-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
+| 🧾 Personal AI Career Engine | Free guide to building CV &amp; career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
+| ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
+
+Full profile, research background, and project write-ups: [github.com/babatundeawo](https://github.com/babatundeawo) · [babatundeawo.github.io](https://babatundeawo.github.io/)
+
+---
+
 ## 🤝 Get Involved
 
 - 🏫 **Schools & institutions** — STEM curriculum support, coding & robotics training, teacher development.
