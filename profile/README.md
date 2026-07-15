@@ -4,6 +4,10 @@
 
 ---
 
+**Jump to:** [Courses](#-free-stem-courses) · [Projects &amp; Repositories](#-projects--repositories) · [Get Involved](#-get-involved)
+
+---
+
 ## About Techbase
 
 **Techbase Consultant Services** provides STEM education, IT consultancy, web development, robotics, and CAC business-registration services from Ibadan, Nigeria — with one mission: equipping young Africans with practical digital skills.
@@ -69,8 +73,15 @@ extend Techbase's mission beyond the core curriculum.
 | 📱 AI Studio → Android Deployment Guide | 23-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
 | 🧾 Personal AI Career Engine | Free guide to building CV &amp; career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
 | ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
+| 📊 ClassPulse National | Claude Project write-up for an AI tutor guiding a student developer through a national classroom feedback platform. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/classpulse-national) |
+| ✍️ GitHub Lesson Writer | Claude Project write-up for a curriculum writer turning source links into beginner-safe HTML lessons. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/github-lesson-writer) |
+| 🛠️ GitHub Portfolio Rebuild | Claude Project write-up for the instructions that keep two GitHub profiles consistently modernised. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/github-portfolio-rebuild) |
+| ✝️ Nigerian Christian Apologist | Claude Project write-up for the voice engine behind Deep Calls' apologetics essays. | [Visit →](https://babatundeawo.github.io/nigerian-christian-apologist/) | [Code →](https://github.com/babatundeawo/nigerian-christian-apologist) |
+| 📱 Social Content Engine | Claude Project write-up for a daily social-media content generator for two Nigerian brands. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
+| 📰 Substack Post Formatter | Claude Project write-up for turning a finished write-up into a publish-ready Substack post. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
+| 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
 
-Full profile, research background, and project write-ups: [github.com/babatundeawo](https://github.com/babatundeawo) · [babatundeawo.github.io](https://babatundeawo.github.io/)
+Full profile, research background, and project write-ups: [github.com/babatundeawo](https://github.com/babatundeawo) · [babatundeawo.github.io/projects.html](https://babatundeawo.github.io/projects.html)
 
 ---
 
