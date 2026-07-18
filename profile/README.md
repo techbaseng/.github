@@ -80,6 +80,9 @@ extend Techbase's mission beyond the core curriculum.
 | 📱 Social Content Engine | Claude Project write-up for a daily social-media content generator for two Nigerian brands. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
 | 📰 Substack Post Formatter | Claude Project write-up for turning a finished write-up into a publish-ready Substack post. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
 | 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
+| 📝 Exam &amp; Revision File Generator | Claude Project write-up for turning e-notes into a formatted exam paper, marking guide, or revision file. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
+| 🗒️ Weekly Lesson Note Generator | Claude Project write-up for generating a full weekly lesson-note booklet from e-notes or a topic list. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
+| 💳 School Fee Payment Portal | Secure, private school-fee lookup portal for parents, by unique family code — no personal data stored server-side. | [Visit →](https://babatundeawo.github.io/school-fee-portal/) | [Code →](https://github.com/babatundeawo/school-fee-portal) |
 
 Full profile, research background, and project write-ups: [github.com/babatundeawo](https://github.com/babatundeawo) · [babatundeawo.github.io/projects.html](https://babatundeawo.github.io/projects.html)
 
