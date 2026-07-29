@@ -73,18 +73,28 @@ extend Techbase's mission beyond the core curriculum.
 | 📱 AI Studio → Android Deployment Guide | 23-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
 | 🧾 Personal AI Career Engine | Free guide to building CV &amp; career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
 | ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
-| 📊 ClassPulse National | Claude Project write-up for an AI tutor guiding a student developer through a national classroom feedback platform. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/classpulse-national) |
-| ✍️ GitHub Lesson Writer | Claude Project write-up for a curriculum writer turning source links into beginner-safe HTML lessons. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/github-lesson-writer) |
-| 🛠️ GitHub Portfolio Rebuild | Claude Project write-up for the instructions that keep two GitHub profiles consistently modernised. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/github-portfolio-rebuild) |
-| ✝️ Nigerian Christian Apologist | Claude Project write-up for the voice engine behind Deep Calls' apologetics essays. | [Visit →](https://babatundeawo.github.io/nigerian-christian-apologist/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/nigerian-christian-apologist) |
-| 📱 Social Content Engine | Claude Project write-up for a daily social-media content generator for two Nigerian brands. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/social-content-engine) |
-| 📰 Substack Post Formatter | Claude Project write-up for turning a finished write-up into a publish-ready Substack post. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/substack-post-formatter) |
-| 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/techbase-code-coach) |
-| 📝 Exam &amp; Revision File Generator | Claude Project write-up for turning e-notes into a formatted exam paper, marking guide, or revision file. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/exam-revision-generator) |
-| 🗒️ Weekly Lesson Note Generator | Claude Project write-up for generating a full weekly lesson-note booklet from e-notes or a topic list. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io/tree/main/lesson-note-generator) |
+| 📊 ClassPulse National | Claude Project write-up for an AI tutor guiding a student developer through a national classroom feedback platform. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/classpulse-national) |
+| ✍️ GitHub Lesson Writer | Claude Project write-up for a curriculum writer turning source links into beginner-safe HTML lessons. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/github-lesson-writer) |
+| 🛠️ GitHub Portfolio Rebuild | Claude Project write-up for the instructions that keep two GitHub profiles consistently modernised. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/github-portfolio-rebuild) |
+| ✝️ Nigerian Christian Apologist | Claude Project write-up for the voice engine behind Deep Calls' apologetics essays. | [Visit →](https://babatundeawo.github.io/nigerian-christian-apologist/) | [Code →](https://github.com/babatundeawo/nigerian-christian-apologist) |
+| 📱 Social Content Engine | Claude Project write-up for a daily social-media content generator for two Nigerian brands. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
+| 📰 Substack Post Formatter | Claude Project write-up for turning a finished write-up into a publish-ready Substack post. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
+| 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
+| 📝 Exam &amp; Revision File Generator | Claude Project write-up for turning e-notes into a formatted exam paper, marking guide, or revision file. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
+| 🗒️ Weekly Lesson Note Generator | Claude Project write-up for generating a full weekly lesson-note booklet from e-notes or a topic list. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
 | 💳 School Fee Payment Portal | Secure, private school-fee lookup portal for parents, by unique family code — no personal data stored server-side. | [Visit →](https://babatundeawo.github.io/school-fee-portal/) | [Code →](https://github.com/babatundeawo/school-fee-portal) |
+| 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — 37 rounds, live scoring, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
 
 Full profile, research background, and project write-ups: [github.com/babatundeawo](https://github.com/babatundeawo) · [babatundeawo.github.io/projects.html](https://babatundeawo.github.io/projects.html)
+
+### 🏢 Related organisations
+
+Separate GitHub orgs maintained by the same team — kept apart from Techbase's own repos above:
+
+| Organisation | What it is | Repos |
+| --- | --- | --- |
+| 🏫 [Knowledge Base International Schools](https://github.com/kbischool) | The school where Techbase's STEM programme is delivered. | [kbischool.github.io](https://github.com/kbischool/kbischool.github.io) |
+| 🧪 [babatundeawo-labs](https://github.com/babatundeawo-labs) | Standalone tools kept separate from both this org and the personal account. | [smart-form-validator](https://github.com/babatundeawo-labs/smart-form-validator) · [student-report-card](https://github.com/babatundeawo-labs/student-report-card) · [safe-calculator](https://github.com/babatundeawo-labs/safe-calculator) |
 
 ---
 
