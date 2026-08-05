@@ -16,7 +16,7 @@ This organisation hosts our free, open curriculum and the supporting guides we p
 
 ```yaml
 courses: 6
-lessons: 235+
+lessons_and_projects: 356+
 cost: 100% free
 location: Ibadan, Nigeria
 mission: "Empowering Youth for the Digital Future through STEM Excellence"
@@ -33,7 +33,7 @@ mission: "Empowering Youth for the Digital Future through STEM Excellence"
 | ⚡ JavaScript | Intermediate | 46 lessons | [techbase-js →](https://techbaseng.github.io/techbase-js/) |
 | 🐍 Python Programming | Beginner → Advanced | 45 lessons | [techbase-python →](https://techbaseng.github.io/techbase-python/) |
 | 🟠 Scratch Programming | Beginner | 35 projects | [techbase-scratch →](https://techbaseng.github.io/techbase-scratch/) |
-| 🤖 Robotics & Arduino | Intermediate | 12 lessons | [techbase-robotics →](https://techbaseng.github.io/techbase-robotics/) |
+| 🤖 Robotics & micro:bit | Beginner → Advanced | 123 projects | [techbase-robotics →](https://techbaseng.github.io/techbase-robotics/) |
 
 **Recommended path:** HTML → CSS → JavaScript for web development, or straight into Python for data and backend work. Younger or complete-beginner learners start with Scratch.
 
@@ -55,7 +55,7 @@ project links to its live site and its source code.
 | ⚡ JavaScript | Intermediate | 46 lessons | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
 | 🐍 Python Programming | Beginner → Advanced | 45 lessons | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
 | 🟠 Scratch Programming | Beginner | 35 projects | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
-| 🤖 Robotics &amp; Arduino | Intermediate | 12 lessons | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
+| 🤖 Robotics &amp; micro:bit | Beginner → Advanced | 123 projects | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
 
 ### 🛠️ More projects &amp; tools — [github.com/babatundeawo](https://github.com/babatundeawo)
 
@@ -64,6 +64,7 @@ extend Techbase's mission beyond the core curriculum.
 
 | Project | What it is | Live | Repo |
 | --- | --- | --- | --- |
+| 🏫 Ilado-Sagbo CGS Records Dashboard | Administrative dashboard preloaded with real school enrollment, results and staff records for a local presentation to education officials. | [Visit →](https://babatundeawo.github.io/ilado-school-dashboard/) | [Code →](https://github.com/babatundeawo/ilado-school-dashboard) |
 | 🧠 PromptOS — AI Prompt Library | 217 curated AI prompts across 11 categories, searchable and editable, works offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
 | 🗂️ Deploybase — AI Deployment Directory | Registry of every deployed Claude Project built and run by Techbase / Babatunde Awoyemi. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
 | 🧑‍🏫 Educator AI Toolkit | Free reference site for Nigerian educators — exam/marking-guide and lesson-note AI generators. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
@@ -82,8 +83,9 @@ extend Techbase's mission beyond the core curriculum.
 | 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
 | 📝 Exam &amp; Revision File Generator | Claude Project write-up for turning e-notes into a formatted exam paper, marking guide, or revision file. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
 | 🗒️ Weekly Lesson Note Generator | Claude Project write-up for generating a full weekly lesson-note booklet from e-notes or a topic list. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
-| 💳 School Fee Payment Portal | Secure, private school-fee lookup portal for parents, by unique family code — no personal data stored server-side. | [Visit →](https://babatundeawo.github.io/school-fee-portal/) | [Code →](https://github.com/babatundeawo/school-fee-portal) |
 | 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — 37 rounds, live scoring, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
+| 🔤 Akinyele Spelling Challenge | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge. | [Visit →](https://babatundeawo.github.io/akinyele-spelling-challenge/) | [Code →](https://github.com/babatundeawo/akinyele-spelling-challenge) |
+| 💰 Millionaire Mindset | Personal-development app on wealth-building habits, hosted on Replit. | [Visit →](https://replit.com/@ba-awoyemi/Millionaire-Mindset) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
 
 Full profile, research background, and project write-ups: [github.com/babatundeawo](https://github.com/babatundeawo) · [babatundeawo.github.io/projects.html](https://babatundeawo.github.io/projects.html)
 
@@ -93,7 +95,7 @@ Separate GitHub orgs maintained by the same team — kept apart from Techbase's 
 
 | Organisation | What it is | Repos |
 | --- | --- | --- |
-| 🏫 [Knowledge Base International Schools](https://github.com/kbischool) | The school where Techbase's STEM programme is delivered. | [kbischool.github.io](https://github.com/kbischool/kbischool.github.io) |
+| 🏫 [Knowledge Base International Schools](https://github.com/kbischool) | The school where Techbase's STEM programme is delivered. | [kbischool.github.io](https://github.com/kbischool/kbischool.github.io) · [school-fee-portal](https://github.com/kbischool/school-fee-portal) |
 | 🧪 [babatundeawo-labs](https://github.com/babatundeawo-labs) | Standalone tools kept separate from both this org and the personal account. | [smart-form-validator](https://github.com/babatundeawo-labs/smart-form-validator) · [student-report-card](https://github.com/babatundeawo-labs/student-report-card) · [safe-calculator](https://github.com/babatundeawo-labs/safe-calculator) |
 
 ---
