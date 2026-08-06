@@ -1,6 +1,6 @@
 [![Techbase Academy banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F5BFF,40:FF4759,70:FFB400,100:00C2A8&text=Techbase%20STEM%20Academy&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Empowering%20Youth%20for%20the%20Digital%20Future%20through%20STEM%20Excellence&descSize=15&descAlignY=58&animation=fadeIn)](https://techbaseng.github.io/)
 
-[![Website](https://img.shields.io/badge/Website-techbasengr.com.ng-4F5BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techbasengr.com.ng) [![Courses](https://img.shields.io/badge/Free%20Courses-techbaseng.github.io-FF4759?style=for-the-badge)](https://techbaseng.github.io/) [![Scratch](https://img.shields.io/badge/Scratch-DeCreed-FFB400?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/DeCreed/) [![Maintainer](https://img.shields.io/badge/Maintainer-Babatunde%20Awoyemi-00C2A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babatundeawo)
+[![Website](https://img.shields.io/badge/Website-techbasengr.com.ng-4F5BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techbasengr.com.ng) [![Courses](https://img.shields.io/badge/Free%20Courses-techbaseng.github.io-FF4759?style=for-the-badge)](https://techbaseng.github.io/) [![YouTube](https://img.shields.io/badge/YouTube-%40techbasengr-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techbasengr) [![Scratch](https://img.shields.io/badge/Scratch-DeCreed-FFB400?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/DeCreed/) [![Maintainer](https://img.shields.io/badge/Maintainer-Babatunde%20Awoyemi-00C2A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babatundeawo)
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Techbase Consultant Services** provides STEM education, IT consultancy, web development, robotics, and CAC business-registration services from Ibadan, Nigeria — with one mission: equipping young Africans with practical digital skills.
 
-This organisation hosts our free, open curriculum and the supporting guides we publish for learners, schools, and the wider community. No sign-up, no cost, no prerequisites to start.
+This organisation hosts our free, open curriculum and the supporting guides we publish for learners, schools, and the wider community. No sign-up, no cost, no prerequisites to start. Video lessons and walkthroughs are published on our [YouTube channel](https://www.youtube.com/@techbasengr).
 
 ```yaml
 courses: 6
@@ -103,7 +103,7 @@ Separate GitHub orgs maintained by the same team — kept apart from Techbase's 
 ## 🤝 Get Involved
 
 - 🏫 **Schools & institutions** — STEM curriculum support, coding & robotics training, teacher development.
-- 👩🏽‍💻 **Learners** — start any course free, anytime, at [techbaseng.github.io](https://techbaseng.github.io/).
+- 👩🏽‍💻 **Learners** — start any course free, anytime, at [techbaseng.github.io](https://techbaseng.github.io/), or follow along on [YouTube](https://www.youtube.com/@techbasengr).
 - 🤝 **Partners** — reach us via [techbasengr.com.ng](https://techbasengr.com.ng) or open an issue on any repo here.
 
 ---
