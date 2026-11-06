@@ -73,7 +73,6 @@ extend Techbase's mission beyond the core curriculum.
 | 🧾 Personal AI Career Engine | Free guide to building CV &amp; career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
 | ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
 | 🙏 RCCG Learning Path | Interactive companion site replacing three printed RCCG training manuals, with quizzes and Firebase-synced progress. | [Visit →](https://babatundeawo.github.io/rccg-training-portal/) | [Code →](https://github.com/babatundeawo/rccg-training-portal) |
-| 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game for church events — 60 rounds, two-window host view, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
 | 🔤 Akinyele Spelling Challenge | Fully responsive multi-page site documenting the 2026 Akinyele Spelling Challenge, with a practice trainer and word bank. | [Visit →](https://babatundeawo.github.io/akinyele-spelling-challenge/) | [Code →](https://github.com/babatundeawo/akinyele-spelling-challenge) |
 | 🎲 Naija Monopoly | Nigeria-themed Monopoly game, playable as an Electron desktop app for Windows. | — (desktop app, see [Releases](https://github.com/babatundeawo/naija-monopoly/releases)) | [Code →](https://github.com/babatundeawo/naija-monopoly) |
 | 💰 Millionaire Mindset | "Who Wants to Be a Millionaire"-style trivia game built with React, TypeScript and Vite. | [Visit →](https://babatundeawo.github.io/Millionaire-Mindset/) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
@@ -94,6 +93,7 @@ A separate GitHub org maintained by the same team, kept apart from Techbase's ow
 | Organisation | What it is | Repos |
 | --- | --- | --- |
 | 🏫 [Knowledge Base International Schools](https://github.com/kbischool) | The school where Techbase's STEM programme is delivered. | [kbischool.github.io](https://github.com/kbischool/kbischool.github.io) (public) — plus private internal tools not linked here |
+| ⛪ [RCCG Kingdom Diplomats](https://github.com/rccgkd) | Youth church games for events. | [bible-family-feud](https://github.com/rccgkd/bible-family-feud) · [bible-trivia-game](https://github.com/rccgkd/bible-trivia-game) |
 
 ---
 
